@@ -32,6 +32,10 @@ button {
 /* =========== /Зкидання налаштувань ======= */
 
 /* =========== Студія-сторінка ============= */
+.link.menu-link.current {
+  color: var(--accent-color);
+}
+
 .header-logo {
   font-family: var(--secondary-font-family);
   font-weight: 700;
